@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "acc19204de04e9c0b352120a71186dff",
+    "revision": "0dc661eb8055aef5e99b4014d2209235",
     "url": "/React-Student-Scores-Chart/index.html"
   },
   {
-    "revision": "6059e2d49e7d5bc6239e",
+    "revision": "4cf7f2acc9b70bf71f95",
     "url": "/React-Student-Scores-Chart/static/css/main.49a8f50c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Student-Scores-Chart/static/js/2.597147c3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6059e2d49e7d5bc6239e",
-    "url": "/React-Student-Scores-Chart/static/js/main.8b02699a.chunk.js"
+    "revision": "4cf7f2acc9b70bf71f95",
+    "url": "/React-Student-Scores-Chart/static/js/main.7eac79c0.chunk.js"
   },
   {
     "revision": "26257f730f547788161b",
