@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/roopeshvs/React-Student-Scores-Chart/static/css/main.49a8f50c.chunk.css",
+    "main.js": "/roopeshvs/React-Student-Scores-Chart/static/js/main.8b02699a.chunk.js",
+    "main.js.map": "/roopeshvs/React-Student-Scores-Chart/static/js/main.8b02699a.chunk.js.map",
+    "runtime-main.js": "/roopeshvs/React-Student-Scores-Chart/static/js/runtime-main.2ae3e48c.js",
+    "runtime-main.js.map": "/roopeshvs/React-Student-Scores-Chart/static/js/runtime-main.2ae3e48c.js.map",
+    "static/js/2.597147c3.chunk.js": "/roopeshvs/React-Student-Scores-Chart/static/js/2.597147c3.chunk.js",
+    "static/js/2.597147c3.chunk.js.map": "/roopeshvs/React-Student-Scores-Chart/static/js/2.597147c3.chunk.js.map",
+    "index.html": "/roopeshvs/React-Student-Scores-Chart/index.html",
+    "precache-manifest.a98e1c76b267936e558161cb47643636.js": "/roopeshvs/React-Student-Scores-Chart/precache-manifest.a98e1c76b267936e558161cb47643636.js",
+    "service-worker.js": "/roopeshvs/React-Student-Scores-Chart/service-worker.js",
+    "static/css/main.49a8f50c.chunk.css.map": "/roopeshvs/React-Student-Scores-Chart/static/css/main.49a8f50c.chunk.css.map",
+    "static/js/2.597147c3.chunk.js.LICENSE.txt": "/roopeshvs/React-Student-Scores-Chart/static/js/2.597147c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ae3e48c.js",
+    "static/js/2.597147c3.chunk.js",
+    "static/css/main.49a8f50c.chunk.css",
+    "static/js/main.8b02699a.chunk.js"
+  ]
+}
