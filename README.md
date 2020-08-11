@@ -6,9 +6,9 @@ An Application to visualize individual student scores as a chart.
 
 This repository contains the front-end of the Chart application written using React.
 
-Find the Backend of this Application at : [https://github.com/roopeshvs/Student-Scores-Chart]https://github.com/roopeshvs/Student-Scores-Chart
+Find the Backend of this Application at : https://github.com/roopeshvs/Student-Scores-Chart
 
-React Application hosted at [https://roopeshvs.github.io/React-Student-Scores-Chart/]https://roopeshvs.github.io/React-Student-Scores-Chart/
+React Application hosted at https://roopeshvs.github.io/React-Student-Scores-Chart/
 
 ## Running it locally
 
